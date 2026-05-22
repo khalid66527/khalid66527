@@ -52,13 +52,13 @@ Focused on writing clean, scalable code and building real-world projects.
 ## 🚀 Projects
 
 ### 🌟 Project 1
-- 🔗 Live: https://your-live-link.com  
-- 💻 Code: https://github.com/your-repo  
+- 🔗 Live: [https://CarPark-live-link.com  ](https://b13-assignment-09-rust.vercel.app)
+- 💻 Code: [https://github.com/CarPark-repo  ](https://github.com/khalid66527/B13-Assignment-09.git)
 - ⚡ Tech: React, Node.js, MongoDB  
 
 ### 🌟 Project 2
-- 🔗 Live: https://your-live-link.com  
-- 💻 Code: https://github.com/your-repo  
+- 🔗 Live: [https://KeenKeeper-live-link.com  ](https://b13-assingment-07.vercel.app/)
+- 💻 Code: [https://github.com/KeenKeeper-repo ](https://github.com/khalid66527/B13-Assignment-07.git) 
 - ⚡ Tech: Next.js, TailwindCSS  
 
 ---

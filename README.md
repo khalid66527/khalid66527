@@ -15,7 +15,7 @@ Focused on writing clean, scalable code and building real-world projects.
 ## 📍 Contact & Socials
 
 - 📧 Email: khalidhasan678954321@gmail.com  
-- 📱 Phone: +8801407539879  
+- 📱 Phone: +8801568666527 
 - 📍 Location: Mymensingh, Netrakona, Bangladesh  
 
 ### 🌐 Social Links

@@ -54,7 +54,7 @@ modern frontend concepts
 ## 🚀 Projects
 
 ### 🌟 Project 1
-- 🔗 Live: [https://ArtHall-live-link.com  ]((https://b13-assingment-10-client.vercel.app/))
+- 🔗 Live: [https://ArtHall-live-link.com  ](https://b13-assingment-10-client.vercel.app)
 - 💻 Code: [https://github.com/ArtHall-repo  ](https://github.com/khalid66527/B13-Assignment-10-Client.git)
 - ⚡ Tech: Next.js, Node.js, MongoDB, BetterAuth , payment System (Stripe)
 

@@ -44,21 +44,27 @@ modern frontend concepts
 
 ## 🧠 Skills Breakdown
 
-- 💻 Frontend: HTML, CSS, TailwindCSS, JavaScript, React, Next.js  
-- ⚙️ Backend: Node.js, Express.js  
+- 💻 Frontend: HTML5, CSS3, JavaScript ( ES6+ ), React, Next.js, Tailwind CSS 
+- ⚙️ Backend: Node.js, Express.js ,REST APIs, Authentication
 - 🗄️ Database: MongoDB, MySQL  
-- 🔧 Tools: Git, GitHub, Firebase, Vercel  
+- 🔧 Tools: Git, GitHub, VS Code, Antgravity IDE, Vercel, Netlify
 
 ---
 
 ## 🚀 Projects
 
 ### 🌟 Project 1
+- 🔗 Live: [https://ArtHall-live-link.com  ]((https://b13-assingment-10-client.vercel.app/))
+- 💻 Code: [https://github.com/ArtHall-repo  ](https://github.com/khalid66527/B13-Assignment-10-Client.git)
+- ⚡ Tech: Next.js, Node.js, MongoDB, BetterAuth , payment System (Stripe)
+
+  
+### 🌟 Project 2
 - 🔗 Live: [https://CarPark-live-link.com  ](https://b13-assignment-09-rust.vercel.app)
 - 💻 Code: [https://github.com/CarPark-repo  ](https://github.com/khalid66527/B13-Assignment-09.git)
 - ⚡ Tech: React, Node.js, MongoDB  
 
-### 🌟 Project 2
+### 🌟 Project 3
 - 🔗 Live: [https://KeenKeeper-live-link.com  ](https://b13-assingment-07.vercel.app/)
 - 💻 Code: [https://github.com/KeenKeeper-repo ](https://github.com/khalid66527/B13-Assignment-07.git) 
 - ⚡ Tech: Next.js, TailwindCSS  
@@ -80,7 +86,7 @@ modern frontend concepts
 
 ## 🎯 Current Focus
 
-- 🚀 Learning Advanced Next.js  
+- 🚀 Learning Advanced TypeScript 
 - ⚡ Improving Backend Development  
 - 🌐 Building Full Stack Applications  
 

@@ -7,8 +7,10 @@
 
 # 💫 About Me
 
-A passionate Frontend Web Developer ready to build performant, highly responsive, and pixel-perfect interfaces.  
-Focused on writing clean, scalable code and building real-world projects.
+A passionate Frontend & MERN Stack Developer ready to build
+performant, highly-responsive, and pixel-perfect interfaces. Focused
+on writing clean, scalable code and continuously exploring advanced
+modern frontend concepts
 
 ---
 
